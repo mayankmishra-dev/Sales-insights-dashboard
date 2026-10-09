@@ -100,17 +100,20 @@ pages show, so the dashboard is visible right here even without opening Power BI
 
 ## Key insights
 
-- **Furniture and Electronics drive ~90% of revenue** between them, but Furniture
-  carries a noticeably thinner margin — worth a pricing review.
-- **Festive season (Oct–Dec) sales run 50–60% above the yearly average**, so
-  inventory and staffing plans should weight that window heavily.
-- **South and Central regions outperform East by a wide margin** on both sales and
-  profit — worth digging into why East underperforms (pricing? fewer active customers?).
-- **4 products — Sticky Notes Pack, Notebook Set, Water Bottle, Wireless Mouse — sit in
-  the bottom 25% by profit contribution.** These are high-volume, low-margin items;
-  candidates for a price adjustment, bundling, or being phased out.
-- **Corporate and Enterprise segments have a meaningfully higher AOV** than individual
-  consumers, despite being a smaller share of the customer base — an upsell opportunity.
+- **Furniture (50%) and Electronics (39%) drive ~90% of revenue**, but Electronics has
+  the thinnest margin of all categories (~30% vs ~36% for Furniture and 43–53% for the
+  smaller categories) — the biggest revenue driver is not the most profitable one.
+- **Q4 is the peak season:** October–December sales run roughly 28–52% above the monthly
+  average (December is the highest), while February is the weakest month at about 36%
+  below average — inventory and staffing should be planned around this.
+- **South is the top region and East the lowest** — South sells ~23% more than East
+  (₹5.22M vs ₹4.25M) — worth digging into why East lags (pricing? fewer active customers?).
+- **4 of 16 products — Sticky Notes Pack, Notebook Set, Water Bottle, Wireless Mouse — sit
+  in the bottom 25% by profit contribution.** These are low-ticket items; candidates for
+  a price adjustment, bundling, or being phased out.
+- **Average order value is almost flat across segments** (₹4,166–₹4,395), so growth has
+  to come from order volume, not from pushing one segment to bigger baskets. Consumers
+  generate ~49% of sales simply because they are the largest customer group.
 
 ## How to run this yourself
 
